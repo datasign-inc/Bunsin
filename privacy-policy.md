@@ -60,15 +60,20 @@ Bunsin プライバシーポリシー
 
 本サービスを提供するため、以下のクラウドサービスを利用しています。
 
-| クラウドサービス名 | 提供会社名 | 目的 | サービスURL | データを保管・処理する場所 | 
----- | ---- | ---- | ---- | ----
-| AmazonWebService | Amazon Web Services, Inc. | <ul><li>メールアドレス、ブンシン関連情報<sup>[※3](#note3)</sup>の管理</li><li>ブンシンメールの転送</li></ul> | https://aws.amazon.com/ | 日本およびアメリカ |
-| SendGrid | 株式会社構造計画研究所| <ul><li>お知らせメールを希望される方のメールアドレスの管理・メールの送信</li></ul> | https://sendgrid.kke.co.jp/ | 日本およびアメリカ |
-| Zendesk | Zendesk, Inc. | <ul><li>お問合せの管理・お問合せへの回答</li></ul> | https://www.zendesk.co.jp/ | アメリカ |
-| Firebase | Google LLC | <ul><li>アプリ利用ログの収集・分析</li><li>プッシュ通知の配信</li></ul> | https://firebase.google.com/ | アメリカ |
-| Datadog | Datadog, Inc. | <ul><li>アプリクラッシュログの収集・分析</li> | https://www.datadoghq.com/ | アメリカ |
+| クラウドサービス名 | 提供者<br>（所在地） | 利用目的 | サービスURL | 個人情報保護について |
+---- | ---- | ---- | ---- | ---- |
+| AmazonWebService | Amazon Web Services, Inc.<br>（アメリカ・ワシントン州） | <ul><li>メールアドレス、ブンシン関連情報<sup><a href="#note3">※3</a></sup>の管理</li><li>ブンシンメールの転送</li></ul> | https://aws.amazon.com/ | https://aws.amazon.com/jp/compliance/japan-data-privacy/ |
+| SendGrid | Twilio Inc.<br>（アメリカ・カリフォルニア州） | <ul><li>お知らせメールを希望される方のメールアドレスの管理・メールの送信</li></ul> | https://sendgrid.com/ | https://www.twilio.com/ja/legal/privacy |
+| Zendesk| Zendesk, Inc.<br>（アメリカ・カリフォルニア州） | <ul><li>お問合せの管理・お問合せへの回答</li></ul> | https://www.zendesk.com/ | https://www.zendesk.co.jp/company/agreements-and-terms/privacy-policy/ |
+| Firebase | Google LLC<br>（アメリカ・カリフォルニア州） | <ul><li>アプリ利用ログの収集・分析</li><li>プッシュ通知の配信</li></ul> | https://firebase.google.com/ | https://firebase.google.com/support/privacy?hl=ja |
+| Datadog | Datadog, Inc.<br>（アメリカ・ニューヨーク州） | <ul><li>アプリクラッシュログの収集・分析</li> | https://www.datadoghq.com/ | https://www.datadoghq.com/ja/security/ |
 
 <small id="note3">※3 ブンシン関連情報とは、ブンシンの名前、ブンシンメール、ブンシンメールの転送拒否ドメインリスト、ブンシンメールに送信されたメールの内容を指しています。</small>
+   
+当該外国における個人情報の保護に関する制度に関しては、個人情報保護委員会が公表する外国における個人情報の保護に関する制度等の調査についての情報をご確認ください。
+* [アメリカ（連邦）](https://www.ppc.go.jp/files/pdf/USA_report.pdf)
+* [アメリカ（カリフォルニア州）](https://www.ppc.go.jp/files/pdf/california_report.pdf)
+* [アメリカ（ニューヨーク州）](https://www.ppc.go.jp/files/pdf/newyork_report.pdf)
 
 ### 3. 個人情報の開示、訂正等について
 
