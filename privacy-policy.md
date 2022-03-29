@@ -60,13 +60,13 @@ Bunsin プライバシーポリシー
 
 本サービスを提供するため、以下のクラウドサービスを利用しています。
 
-| クラウドサービス名 | 提供者<br>（所在地） | 利用目的 | サービスURL | 個人情報保護について |
----- | ---- | ---- | ---- | ---- |
-| AmazonWebService | Amazon Web Services, Inc.<br>（アメリカ・ワシントン州） | <ul><li>メールアドレス、ブンシン関連情報<sup><a href="#note3">※3</a></sup>の管理</li><li>ブンシンメールの転送</li></ul> | https://aws.amazon.com/ | https://aws.amazon.com/jp/compliance/japan-data-privacy/ |
-| SendGrid | Twilio Inc.<br>（アメリカ・カリフォルニア州） | <ul><li>お知らせメールを希望される方のメールアドレスの管理・メールの送信</li></ul> | https://sendgrid.com/ | https://www.twilio.com/ja/legal/privacy |
-| Zendesk| Zendesk, Inc.<br>（アメリカ・カリフォルニア州） | <ul><li>お問合せの管理・お問合せへの回答</li></ul> | https://www.zendesk.com/ | https://www.zendesk.co.jp/company/agreements-and-terms/privacy-policy/ |
-| Firebase | Google LLC<br>（アメリカ・カリフォルニア州） | <ul><li>アプリ利用ログの収集・分析</li><li>プッシュ通知の配信</li></ul> | https://firebase.google.com/ | https://firebase.google.com/support/privacy?hl=ja |
-| Datadog | Datadog, Inc.<br>（アメリカ・ニューヨーク州） | <ul><li>アプリクラッシュログの収集・分析</li> | https://www.datadoghq.com/ | https://www.datadoghq.com/ja/security/ |
+| クラウドサービス名 | 提供者<br>（所在地） | 利用目的 | 個人情報保護について |
+| ---- | ---- | ---- | ---- |
+| [AmazonWebService](https://aws.amazon.com/) | Amazon Web Services, Inc.<br>（アメリカ・ワシントン州） | <ul><li>メールアドレス、ブンシン関連情報<sup><a href="#note3">※3</a></sup>の管理</li><li>ブンシンメールの転送</li></ul> | [日本のデータプライバシー](https://aws.amazon.com/jp/compliance/japan-data-privacy/) |
+| [SendGrid](https://sendgrid.com/) | Twilio Inc.<br>（アメリカ・カリフォルニア州） | <ul><li>お知らせメールを希望される方のメールアドレスの管理・メールの送信</li></ul> | [プライバシーポリシー](https://www.twilio.com/ja/legal/privacy) |
+| [Zendesk](https://www.zendesk.com/) | Zendesk, Inc.<br>（アメリカ・カリフォルニア州） | <ul><li>お問合せの管理・お問合せへの回答</li></ul> | [プライバシーポリシー](https://www.zendesk.co.jp/company/agreements-and-terms/privacy-policy/) |
+| [Firebase](https://firebase.google.com/) | Google LLC<br>（アメリカ・カリフォルニア州） | <ul><li>アプリ利用ログの収集・分析</li><li>プッシュ通知の配信</li></ul> | [プライバシーとセキュリティ](https://firebase.google.com/support/privacy?hl=ja) |
+| [Datadog](https://www.datadoghq.com/) | Datadog, Inc.<br>（アメリカ・ニューヨーク州） | <ul><li>アプリクラッシュログの収集・分析</li> | [セキュリティ](https://www.datadoghq.com/ja/security/) |
 
 <small id="note3">※3 ブンシン関連情報とは、ブンシンの名前、ブンシンメール、ブンシンメールの転送拒否ドメインリスト、ブンシンメールに送信されたメールの内容を指しています。</small>
    
